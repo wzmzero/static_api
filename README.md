@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # weixin
 1. 使用工具
 - [x] drf
